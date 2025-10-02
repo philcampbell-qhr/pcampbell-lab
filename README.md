@@ -1,1 +1,3 @@
-# config-test
+# pcampbell-lab
+
+Just running experiments 
